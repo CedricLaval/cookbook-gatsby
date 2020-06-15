@@ -1,5 +1,5 @@
 ---
 templateKey: index-page
-title: Les recettes de Maud
+title: Les recettes de Cédric
 image: /img/hero.jpg
 ---

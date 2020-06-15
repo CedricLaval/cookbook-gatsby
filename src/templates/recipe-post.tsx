@@ -23,7 +23,7 @@ const LeftPanel = styled('div')(({ theme }) => ({
   [theme.breakpoints.up('md')]: {
     padding: theme.spacing(1),
     overflowY: 'auto',
-    backgroundColor: '#5D3352 ',
+    backgroundColor: '#3f51b5 ',
     color: theme.palette.common.white,
     '& *': {
       color: theme.palette.common.white,
@@ -37,7 +37,7 @@ const LeftPanel = styled('div')(({ theme }) => ({
 
 const LeftPanelContent = styled('div')(({ theme }) => ({
   [theme.breakpoints.down('sm')]: {
-    backgroundColor: '#5D3352',
+    backgroundColor: '#3f51b5',
     color: theme.palette.common.white,
     '& *': {
       color: theme.palette.common.white,
